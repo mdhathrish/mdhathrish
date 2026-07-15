@@ -6,10 +6,10 @@
 
 **3x Founder** · Currently building **Cosmos Tutorial** (B2B SaaS + physical coaching centres) · Freelance agency **Justwebsites.in**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhathrish)
 [![Instagram](https://img.shields.io/badge/Cosmos_Tutorial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cosmostutorial.in)
 [![Website](https://img.shields.io/badge/cosmostutorial.com-1748A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cosmostutorial.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhathrishmukkerla@gmail.com)
 
 </div>
 
@@ -105,8 +105,8 @@ Co-founded venture (25% equity) — overnight prep, morning delivery, webapp wit
 
 I'm always open to conversations about SaaS, edtech, founder-led sales, or freelance web/motion builds.
 
-📧 **Email:** YOUR-EMAIL
-💼 **LinkedIn:** linkedin.com/in/YOUR-LINKEDIN
+📧 **Email:** dhathrishmukkerla@gmail.com
+💼 **LinkedIn:** linkedin.com/in/dhathrish
 🌐 **Cosmos Tutorial:** [cosmostutorial.com](https://cosmostutorial.com)
 📸 **Instagram:** [@cosmostutorial.in](https://instagram.com/cosmostutorial.in)
 
