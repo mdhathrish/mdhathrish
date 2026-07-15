@@ -67,7 +67,7 @@ Freelance 3D/motion web experiences for real and demo clients — jewellery hous
 
 **Frontend & Mobile**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,expo,tailwind,threejs)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,apple,tailwind,threejs)
 
 **Backend & Data**
 
