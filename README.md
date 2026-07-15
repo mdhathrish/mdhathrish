@@ -10,6 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Cosmos_Tutorial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cosmostutorial.in)
 [![Website](https://img.shields.io/badge/cosmostutorial.com-1748A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cosmostutorial.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhathrishmukkerla@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mdhathrish&color=1748A0&style=for-the-badge&label=Profile+Views)](https://github.com/mdhathrish)
 
 </div>
 
@@ -31,32 +32,24 @@ I design, build, and ship full-stack products end to end — architecture, backe
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🌌 Cosmos Tutorial (SaaS)**
 Multi-tenant B2B platform for coaching institute management — attendance, fees, progress reports, parent app.
 `Next.js` `Expo React Native` `Supabase` `PostgreSQL` `Gemini AI` — 52 RLS policies, full CI/CD, Sentry monitoring. Live on iOS App Store, Android in closed testing.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🏫 Cosmos Tutorial (Physical Centre)**
 Relaunching a 2-year, 5.0★-rated coaching centre in a new Pragathi Nagar location — Class 8–9 Science & Maths, IIT Foundation level.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **💎 Client & Portfolio Builds**
 Freelance 3D/motion web experiences for real and demo clients — jewellery houses, business sites — under Justwebsites.in.
 `React Three Fiber` `GSAP` `Lenis` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-**🥣 Overnight Oatmeal Delivery**
-Co-founded venture (25% equity) — overnight prep, morning delivery, webapp with secure payments.
 
 </td>
 </tr>
@@ -92,8 +85,8 @@ Co-founded venture (25% equity) — overnight prep, morning delivery, webapp wit
 
 <div align="center">
 
-![Dhathrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhathrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhathrish&layout=compact&theme=tokyonight&hide_border=true)
+![Dhathrish's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mdhathrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdhathrish&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdhathrish&theme=tokyonight&hide_border=true)
 
