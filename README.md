@@ -4,11 +4,12 @@
 
 ### 👋 Hi, I'm Mintu — a 22-year-old solo founder and full-stack developer from Hyderabad, India
 
-**3x Founder** · Currently building **Cosmos Tutorial** (B2B SaaS + physical coaching centres) · Freelance agency **Justwebsites.in**
+**3x Founder** · Currently building **Cosmos Tutorial** (B2B SaaS + physical coaching centres) · Freelance agency **[Justwebsites.in](https://justwebsites.in)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhathrish)
 [![Instagram](https://img.shields.io/badge/Cosmos_Tutorial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cosmostutorial.in)
 [![Website](https://img.shields.io/badge/cosmostutorial.com-1748A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cosmostutorial.com)
+[![Justwebsites.in](https://img.shields.io/badge/Justwebsites.in-F28233?style=for-the-badge&logo=googlechrome&logoColor=white)](https://justwebsites.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhathrishmukkerla@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=mdhathrish&color=1748A0&style=for-the-badge&label=Profile+Views)](https://github.com/mdhathrish)
 
@@ -18,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I design, build, and ship full-stack products end to end — architecture, backend, mobile/web apps, and go-to-market — usually solo. I currently work full-time as a developer while running **Cosmos Tutorial** as CTO/CEO, relaunching a physical tutorial centre in Hyderabad, and taking on freelance web builds under **Justwebsites.in**.
+I design, build, and ship full-stack products end to end — architecture, backend, mobile/web apps, and go-to-market — usually solo. I currently work full-time as a developer while running **Cosmos Tutorial** as CTO/CEO, relaunching a physical tutorial centre in Hyderabad, and taking on freelance web builds under **[Justwebsites.in](https://justwebsites.in)**.
 
 - 🚀 Solo-built a multi-tenant B2B SaaS (Next.js + Expo + Supabase) from zero to production in ~6 months
 - 🏫 Running Cosmos Tutorial on two fronts: SaaS for coaching institutes + a physical centre (Pragathi Nagar, Hyderabad)
@@ -101,6 +102,7 @@ I'm always open to conversations about SaaS, edtech, founder-led sales, or freel
 📧 **Email:** dhathrishmukkerla@gmail.com
 💼 **LinkedIn:** linkedin.com/in/dhathrish
 🌐 **Cosmos Tutorial:** [cosmostutorial.com](https://cosmostutorial.com)
+🛠️ **Freelance:** [justwebsites.in](https://justwebsites.in)
 📸 **Instagram:** [@cosmostutorial.in](https://instagram.com/cosmostutorial.in)
 
 ⭐️ If any of my projects are useful to you, consider starring the repo!
