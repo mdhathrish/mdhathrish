@@ -85,10 +85,10 @@ Freelance 3D/motion web experiences for real and demo clients — jewellery hous
 
 <div align="center">
 
-![Dhathrish's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mdhathrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdhathrish&layout=compact&theme=tokyonight&hide_border=true)
+![Dhathrish's GitHub stats](https://github-readme-stats-mdhathrish.vercel.app/api?username=mdhathrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-mdhathrish.vercel.app/api/top-langs/?username=mdhathrish&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdhathrish&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-mdhathri.vercel.app/?user=mdhathrish&theme=tokyonight&hide_border=true)
 
 </div>
 
