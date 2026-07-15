@@ -36,14 +36,17 @@ function SitePreview({ project }: { project: Project }) {
           loading="lazy"
           className="h-full w-full object-cover object-top transition-transform duration-[900ms] ease-out-expo group-hover/preview:scale-[1.05]"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink/80 via-ink/5 to-transparent" />
-        <div className="absolute inset-x-0 bottom-0 flex items-end justify-between p-5">
-          <div>
-            <p className="mono-label text-bone-faint">{project.client}</p>
-            <p className="display mt-0.5 text-xl text-bone">{project.title}</p>
+        {/* Screenshots often have their own text near the bottom edge (CTAs,
+            taglines) — this wash needs to fully hide it before our own label
+            renders on top, or the two layers of text collide. */}
+        <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-ink from-15% via-ink/70 via-45% to-transparent" />
+        <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-3 p-5">
+          <div className="min-w-0">
+            <p className="mono-label truncate text-bone-faint">{project.client}</p>
+            <p className="display mt-0.5 truncate text-xl text-bone">{project.title}</p>
           </div>
           {project.live && (
-            <span className="flex items-center gap-1.5 rounded-full bg-acid px-3 py-1.5 text-xs font-medium text-ink opacity-0 transition-opacity duration-300 group-hover/preview:opacity-100">
+            <span className="shrink-0 rounded-full bg-acid px-3 py-1.5 text-xs font-medium text-ink opacity-0 transition-opacity duration-300 group-hover/preview:opacity-100">
               View live ↗
             </span>
           )}
