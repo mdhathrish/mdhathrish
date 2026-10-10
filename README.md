@@ -19,13 +19,15 @@
 
 ## 🧑‍💻 About Me
 
-I design, build, and ship full-stack products end to end — architecture, backend, mobile/web apps, and go-to-market — usually solo. I currently work full-time as a developer while running **Cosmos Tutorial** as CTO/CEO, relaunching a physical tutorial centre in Hyderabad, and taking on freelance web builds under **[Justwebsites.in](https://justwebsites.in)**.
+I design, build, and ship full-stack products end to end — architecture, backend, mobile/web apps, and go-to-market — usually solo. I currently work full-time as a developer while running **Cosmos Tutorial** as CTO/CEO, relaunching a physical tutorial centre in Hyderabad, and taking on freelance web builds under **JW Studio ([Justwebsites.in](https://justwebsites.in))**.
 
-- 🚀 Solo-built a multi-tenant B2B SaaS (Next.js + Expo + Supabase) from zero to production in ~6 months
+- 🚀 Solo-built a multi-tenant B2B SaaS (Next.js + Expo + Supabase) from zero to production in ~6 months — now live on iOS and Android
+- ☁️ Moved the whole platform (admin portal, cron jobs, marketing site) from Vercel to Cloudflare Workers in Oct 2026
 - 🏫 Running Cosmos Tutorial on two fronts: SaaS for coaching institutes + a physical centre (Pragathi Nagar, Hyderabad)
 - 🛠️ 3x founder by 22 — D2C skincare, digital marketing, and now Cosmos Tutorial
 - 🌐 Freelance web design & development for real clients — Awwwards-style 3D/motion sites to clean production builds
-- 🔭 Currently exploring: AI voice agents, WhatsApp automation pipelines (n8n), and agentic dev workflows with Claude Code
+- 🤖 Currently building: an in-app AI assistant that does owners' daily work for them (starting with attendance), an AI MCQ generator, and a doubt solver — on open-source models via Cloudflare Workers AI
+- 🔭 Currently learning: building RAG systems from scratch — chunking, embeddings, pgvector retrieval, and measuring accuracy with proper evals
 
 ---
 
@@ -37,7 +39,7 @@ I design, build, and ship full-stack products end to end — architecture, backe
 
 **🌌 Cosmos Tutorial (SaaS)**
 Multi-tenant B2B platform for coaching institute management — attendance, fees, progress reports, parent app.
-`Next.js` `Expo React Native` `Supabase` `PostgreSQL` `Gemini AI` — 52 RLS policies, full CI/CD, Sentry monitoring. Live on iOS App Store, Android in closed testing.
+`Next.js` `Expo React Native` `Supabase` `PostgreSQL` `Cloudflare Workers` `Workers AI` `Gemini` — 52+ RLS policies, CI/CD, Sentry monitoring, safety-checked deploys. Live on the App Store and Google Play.
 
 </td>
 <td width="33%" valign="top">
@@ -49,8 +51,8 @@ Relaunching a 2-year, 5.0★-rated coaching centre in a new Pragathi Nagar locat
 <td width="33%" valign="top">
 
 **💎 Client & Portfolio Builds**
-Freelance 3D/motion web experiences for real and demo clients — jewellery houses, business sites — under Justwebsites.in.
-`React Three Fiber` `GSAP` `Lenis` `Vercel`
+Freelance 3D/motion web experiences for real and demo clients — jewellery houses, business sites — under JW Studio (Justwebsites.in).
+`React Three Fiber` `GSAP` `Lenis` `Cloudflare Workers`
 
 </td>
 </tr>
@@ -72,7 +74,7 @@ Freelance 3D/motion web experiences for real and demo clients — jewellery hous
 
 **Backend & Data**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase)
+![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres,cloudflare,firebase)
 
 **Tools & Platforms**
 
@@ -97,7 +99,7 @@ Freelance 3D/motion web experiences for real and demo clients — jewellery hous
 
 ## 🤝 Let's Connect
 
-I'm always open to conversations about SaaS, edtech, founder-led sales, or freelance web/motion builds.
+I'm always open to conversations about SaaS, edtech, applied AI and RAG, founder-led sales, or freelance web/motion builds.
 
 📧 **Email:** dhathrishmukkerla@gmail.com
 💼 **LinkedIn:** linkedin.com/in/dhathrish
